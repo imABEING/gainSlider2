@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>gainSlider - AU.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>gainSlider - All.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>gainSlider - Shared Code.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>gainSlider - Standalone Plugin.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>gainSlider - VST.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1FCAE8431D955E9E9F179D1D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2C8B5A4759DB94D87692D70D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4590597B73B1EA9EB562CBB8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9793D373393FE8AC9C99AB50</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CC5DC9E1798AAB8474D39D9D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
